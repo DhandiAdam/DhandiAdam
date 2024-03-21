@@ -71,19 +71,11 @@
 
 #
 **IDE & Code Editor:**  
- <code> <img height="40" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png"> </code>
-  <code> <img height="40" src="https://www.clipartkey.com/mpngs/m/210-2104705_html-logo-png-transparent-background.png"> </code>
-  <code> <img height="40" src="https://img.favpng.com/14/24/13/css3-cascading-style-sheets-logo-html-markup-language-png-favpng-Tz7AH52MR4DVA6tRKXjDuWuYs.jpg"> </code>
-  <code> <img height="40" src="https://nepcodex.com/wp-content/uploads/2019/07/Golang-700x395.png"> </code>
-  <code> <img height="40" src="https://www.freeiconspng.com/uploads/fbdblog-configurar-phpmyadmin-y-habilitar-el-dise-ador--2.png"> </code>
-  <code> <img height="40" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png"> </code>
-  <code> <img height="40" src="https://pluspng.com/img-png/python-logo-png-open-2000.png"> </code>
-  <code> <img height="50" src="https://clipground.com/images/c-logo-1.png"> </code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://www.coriaweb.hosting/wp-content/uploads/2016/06/logo-og.png"></code>
 <code><img height="40" width="40" src="https://forum.opennmt.net/uploads/default/original/2X/5/568c419c14aca7a2f68749c9fff9598dd1d7b5e1.png"></code>
 <code><img height="40" width="40" src="https://logos-download.com/wp-content/uploads/2019/07/Notepad_Logo.png"></code>
-
+<code><img height="40" width="40" src="https://www.freeiconspng.com/thumbs/c-logo-icon/dev-c--logo-icon-32.png"></code>
 
 <br/>
 
