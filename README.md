@@ -75,7 +75,7 @@
 <code><img height="40" width="40" src="https://www.coriaweb.hosting/wp-content/uploads/2016/06/logo-og.png"></code>
 <code><img height="40" width="40" src="https://forum.opennmt.net/uploads/default/original/2X/5/568c419c14aca7a2f68749c9fff9598dd1d7b5e1.png"></code>
 <code><img height="40" width="40" src="https://logos-download.com/wp-content/uploads/2019/07/Notepad_Logo.png"></code>
-<code><img height="40" width="40" src="https://www.freeiconspng.com/thumbs/c-logo-icon/dev-c--logo-icon-32.png"></code>
+
 
 <br/>
 
