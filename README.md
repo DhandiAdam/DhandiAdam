@@ -23,8 +23,10 @@
         <br>
         <p>
             <strong>
-                Computer Science Student, Back-End Engineer, Problem Solver, Freelancer, and Open-Source Enthusiast.<br><br>
-                I specialize in .NET Core and Microsoft SQL Server and I have experience working with Angular. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
+		    Hello My Name IS Dhandi Adam
+		    <br><br>
+                Mobile Apps Student, Back-End Engineer,Freelancer<br><br>
+                I specialize in Java,C++,Golang and Microsoft SQL Server and I have experience working . Good in Algorithms, Database Systems, Object-Oriented Programming, .<br><br>
                 I am passionate about learning .NET, all Back-End Technologies, Web 3, Blockchain, Linux, Virtualization, Cloud Computing, and DevOps.<br><br>
                 Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
             </strong>
@@ -35,16 +37,14 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"> 
 </a>
 
-
-✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently Developing **Paycron** Payment Gateway **@Plaxonic**<br>
-✔ I’m currently learning **ReactJS** & **NodeJS**<br>
-✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m looking for help for learning **Remote Sensing**<br>
-✔ I regularly write articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/akash_chowrasia/articles) <br>
-✔ I use to write coad on [leetcode](https://leetcode.com/Akash_Chowrasia/) <br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
+✔ I am currently developing Golang Object Oriented Programming & Payment Gateway <br>
+✔ I am currently learning Golang & ReactJS <br>
+✔ I want to collaborate with contributions in the world of Programming <br>
+✔ A programming jockey in the college world <br> 
+✔ I am currently teaching as a Practicum Assistant for Data Structure Algorithms in Class G & H on March 3, 2024. <br>
+✔ I am currently a PKM (Student Creativity Program) Committee on February 1, 2024 - March 30, 2024 <br>
+<br>
+✔ Fun fact: At the time of Stress coding, I used to be in half sleep mode <br> <br> <br>
 
 
 #
